@@ -1,0 +1,4 @@
+claim_jetton#79a53080 query_id:uint64 wallet_address:MsgAddressInt
+                      recipient_address:MsgAddressInt amount:Coins = InMsgBody;
+
+claim_ton#d15d7c70 query_id:uint64 recipient_address:MsgAddressInt payload:Cell = InMsgBody;
