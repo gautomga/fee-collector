@@ -1,4 +1,4 @@
-# fee-collector
+ff2a9cdb5abe3efdba1e773e4d03a53dea1550b1# fee-collector
 
 ## Project structure
 
